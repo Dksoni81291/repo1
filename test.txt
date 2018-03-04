@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 00A3-E141
+
+ Directory of D:\myP3j
+
+03/04/2018  09:30 PM    <DIR>          .
+03/04/2018  09:30 PM    <DIR>          ..
+03/04/2018  09:30 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  101,624,283,136 bytes free
